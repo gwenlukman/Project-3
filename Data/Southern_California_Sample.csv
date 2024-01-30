@@ -1,0 +1,450 @@
+collection_date,site_name,name,sewershed_pop,N_Gene_gc_g_dry_weight
+2023-01-01,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,527757.1386122447
+2023-01-02,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,389195.9064556354
+2023-01-04,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,198762.0133333333
+2023-01-08,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,313013.5231773049
+2023-01-09,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,568464.4282469136
+2023-01-11,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,177868.14605504586
+2023-01-15,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,187832.54543089427
+2023-01-16,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,149804.95480341878
+2023-01-18,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,150878.65433962265
+2023-01-22,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,256297.58020618555
+2023-01-23,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,121605.5365490196
+2023-01-25,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,136392.97075338752
+2023-01-29,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,228895.96626666668
+2023-01-30,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,235550.44203921568
+2023-02-01,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,354998.42550724634
+2023-02-05,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,342849.4135111111
+2023-02-06,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,169614.4273777778
+2023-02-08,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,394020.0805245901
+2023-02-12,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,455043.3848553459
+2023-02-13,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,231768.9015384615
+2023-02-15,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,193560.1419079189
+2023-02-19,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,310579.0803393939
+2023-02-20,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,267393.8097087379
+2023-02-22,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,466755.3435588972
+2023-02-26,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,229866.1409185185
+2023-02-27,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,501109.0911161049
+2023-03-01,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,236003.0280193236
+2023-03-05,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,178507.33851094893
+2023-03-06,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,240083.00435327628
+2023-03-08,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,266708.9107403685
+2023-03-12,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,198217.1400251572
+2023-03-13,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,212947.11882251085
+2023-03-15,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,181389.5089523809
+2023-03-19,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,152002.04663247857
+2023-03-20,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,119759.2802424242
+2023-03-22,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,122063.79653731344
+2023-03-26,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,93703.98004705884
+2023-03-27,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,139738.0588017217
+2023-03-29,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,108467.92406917393
+2023-04-02,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,202232.93742969187
+2023-04-03,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,80220.60513584426
+2023-04-05,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,126018.52573320044
+2023-04-09,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,313045.37482448976
+2023-04-10,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,75820.18949155082
+2023-04-12,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,117686.88833849329
+2023-04-16,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,255240.27849885737
+2023-04-17,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,81979.9622000597
+2023-04-19,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,96779.7906997285
+2023-04-23,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,88981.46580428637
+2023-04-24,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,87497.60385806297
+2023-04-26,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,191881.8836401664
+2023-04-30,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,84487.90732636777
+2023-05-01,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,104976.23243729494
+2023-05-03,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,74809.16328433683
+2023-05-07,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,100086.0999529412
+2023-05-08,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,122377.41252169517
+2023-05-10,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,80339.11865842473
+2023-05-14,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,38280.23055028463
+2023-05-15,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,74174.43157947435
+2023-05-17,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,31968.892651108305
+2023-05-21,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,70579.48989370382
+2023-05-22,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,43028.866711643765
+2023-05-24,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,56366.791846050415
+2023-05-28,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,51558.00499747798
+2023-05-29,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,38850.461270026346
+2023-05-31,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,83957.03137096911
+2023-06-04,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,45390.17268509804
+2023-06-05,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,78639.82652056025
+2023-06-07,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,95017.2398271658
+2023-06-11,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,31529.14082667902
+2023-06-12,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,55302.780648663815
+2023-06-14,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,59678.876982926085
+2023-06-18,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,41801.46759529411
+2023-06-19,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,74858.31994897236
+2023-06-21,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,49319.14201510097
+2023-06-25,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,78849.0088797801
+2023-06-26,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,81897.45102074866
+2023-06-28,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,65332.3336243215
+2023-07-02,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,35468.65068326375
+2023-07-03,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,96896.64996036854
+2023-07-05,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,117792.47816687782
+2023-07-09,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,102122.58474313728
+2023-07-10,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,50449.73806658323
+2023-07-12,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,153219.23988671027
+2023-07-16,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,53238.90501620167
+2023-07-17,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,57718.2118631437
+2023-07-19,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,127348.92781028252
+2023-07-23,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,115658.30924149737
+2023-07-24,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,183929.40838135983
+2023-07-26,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,352695.3728644881
+2023-07-30,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,176694.7946649477
+2023-07-31,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,62642.648867469885
+2023-08-02,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,126002.23002917648
+2023-08-06,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,234660.1411508705
+2023-08-07,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,132079.61219495797
+2023-08-09,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,316440.2270608261
+2023-08-13,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,153837.00063529413
+2023-08-14,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,98827.09845251493
+2023-08-16,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,313800.1234838959
+2023-08-20,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,174919.73662377286
+2023-08-21,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,252942.6840997009
+2023-08-23,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,464067.7301364706
+2023-08-27,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,482022.4022117647
+2023-08-28,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,870472.8532507741
+2023-08-30,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,157578.03321579375
+2023-09-03,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,286407.7864492476
+2023-09-04,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,484049.3594352942
+2023-09-06,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,412559.5067813085
+2023-09-10,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,377815.8137176471
+2023-09-11,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,150872.15423017906
+2023-09-14,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,132005.8917558824
+2023-09-17,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,254324.5968172869
+2023-09-18,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,45759.42623919327
+2023-09-20,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,88938.65869404272
+2023-09-24,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,159258.74144904508
+2023-09-25,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,168873.10473277312
+2023-09-27,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,404810.4088116641
+2023-10-01,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,130620.42394599812
+2023-10-02,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,95662.21705838692
+2023-10-04,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,160948.07094759357
+2023-10-08,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,111084.3841742324
+2023-10-09,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,59091.09640015181
+2023-10-11,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,132196.09208861727
+2023-10-15,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,87653.78442474383
+2023-10-16,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,80222.66076524885
+2023-10-18,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,130395.74909522371
+2023-10-22,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,177323.80043690404
+2023-10-23,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,33223.03511843137
+2023-10-25,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,129476.2579134662
+2023-10-29,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,61274.50091255702
+2023-10-30,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,177802.4713093621
+2023-11-01,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,75896.05047355121
+2023-11-05,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,60668.61742660634
+2023-11-06,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,30021.10183885533
+2023-11-08,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,73083.95343529413
+2023-11-12,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,267950.2995123906
+2023-11-13,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,742557.7643730604
+2023-11-15,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,74794.94487811765
+2023-11-19,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,196243.07605647063
+2023-11-20,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,673476.4399385513
+2023-11-22,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,61071.78732130721
+2023-11-26,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,152648.61942117653
+2023-11-27,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,242044.58166535955
+2023-11-29,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,243542.30957860965
+2023-12-03,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,345266.5982597463
+2023-12-04,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,230360.61111633983
+2023-12-06,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,375259.2423529412
+2023-12-10,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,139485.14930260766
+2023-12-11,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,514124.6465903504
+2023-12-13,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,307875.4471107506
+2023-12-17,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,346641.90654789924
+2023-12-18,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,313299.87843311555
+2023-12-20,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,155295.38404596446
+2023-12-24,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,561990.0676692242
+2023-12-25,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,511238.5747684451
+2023-12-27,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,203236.77797647065
+2023-12-31,Joint Water Pollution Control Plant,"Los Angeles County, CA",3500000,382345.7450135747
+2023-01-02,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,514888.6161964912
+2023-01-03,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,522026.5290884354
+2023-01-04,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,243301.0907526882
+2023-01-08,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,155752.21836190473
+2023-01-10,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,193217.2684190476
+2023-01-11,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,211295.6315897436
+2023-01-16,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,115984.34004341083
+2023-01-17,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,218957.62122666664
+2023-01-18,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,262751.4053836478
+2023-01-22,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,128786.32250864196
+2023-01-24,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,260818.50508641973
+2023-01-25,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,309022.0378473895
+2023-01-29,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,114878.69187450978
+2023-01-31,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,169657.44620895525
+2023-02-01,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,374227.6679111112
+2023-02-05,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,246673.56416666665
+2023-02-07,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,313822.61595628405
+2023-02-08,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,300674.92008080805
+2023-02-12,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,217239.3536219932
+2023-02-14,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,120531.86068027208
+2023-02-15,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,211805.45998122063
+2023-02-20,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,132534.4107586207
+2023-02-21,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,162303.58059016394
+2023-02-22,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,211256.81841777777
+2023-02-26,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,94723.2200990476
+2023-02-28,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,173165.11663926943
+2023-03-01,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,266973.57241613587
+2023-03-05,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,81346.22761411764
+2023-03-07,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,125469.00908
+2023-03-08,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,204693.5520507937
+2023-03-12,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,112424.252640796
+2023-03-14,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,123605.35348571428
+2023-03-15,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,54835.22602352941
+2023-03-19,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,52409.90202469136
+2023-03-21,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,273181.6871111111
+2023-03-22,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,97038.64765842695
+2023-03-27,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,25350.508434061623
+2023-03-28,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,44217.847299968205
+2023-03-29,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,77441.6913069443
+2023-04-02,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,32881.823414739694
+2023-04-04,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,91944.7214165453
+2023-04-05,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,291696.75703147857
+2023-04-09,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,47126.13049385376
+2023-04-11,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,66146.1097541647
+2023-04-12,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,46200.02374880325
+2023-04-16,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,64749.83915050519
+2023-04-18,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,20510.205760705885
+2023-04-19,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,58666.82680540306
+2023-04-23,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,69472.83795194297
+2023-04-25,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,43077.687618077085
+2023-04-26,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,57146.19906645471
+2023-04-30,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,28619.645505087
+2023-05-02,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,24096.57240249135
+2023-05-03,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,22905.567392969693
+2023-05-07,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,67443.5403123905
+2023-05-09,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,44136.066448104575
+2023-05-10,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,37171.92929122505
+2023-05-14,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,45076.2504797954
+2023-05-16,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,65869.07602227452
+2023-05-17,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,44353.98518074867
+2023-05-21,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,37765.49110176471
+2023-05-23,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,36661.32709503836
+2023-05-24,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,145675.18482588237
+2023-05-29,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,55568.00799641457
+2023-05-30,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,133504.85379673992
+2023-05-31,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,65490.49617950275
+2023-06-04,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,15419.99042238474
+2023-06-06,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,37869.647930774
+2023-06-07,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,46319.93316871973
+2023-06-11,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,36941.909836302526
+2023-06-13,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,34489.454314717885
+2023-06-14,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,32084.283827607847
+2023-06-19,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,65046.221195548496
+2023-06-20,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,28588.86435486445
+2023-06-21,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,13730.478289542489
+2023-06-25,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,30346.999106291554
+2023-06-27,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,22044.08105924051
+2023-06-28,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,34154.951861209614
+2023-07-02,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,112649.54657934642
+2023-07-04,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,56034.0155721267
+2023-07-05,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,71392.8260832
+2023-07-09,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,67738.29699520697
+2023-07-11,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,71777.91094021703
+2023-07-12,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,349399.89920771454
+2023-07-16,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,80797.06149064888
+2023-07-18,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,44445.3175699056
+2023-07-19,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,27009.48123875936
+2023-07-23,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,96485.43185527484
+2023-07-25,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,131552.2099191816
+2023-07-26,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,74622.96508788929
+2023-07-30,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,200448.02469845203
+2023-08-01,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,111336.82579377166
+2023-08-02,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,404272.5597476846
+2023-08-06,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,58370.99584164878
+2023-08-08,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,96380.42289923276
+2023-08-09,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,94694.98596223432
+2023-08-13,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,100531.65426405233
+2023-08-15,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,60611.425878369126
+2023-08-16,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,80562.50750222872
+2023-08-20,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,101514.44729623532
+2023-08-22,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,90916.51810595924
+2023-08-23,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,107729.30239332835
+2023-08-28,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,108614.36034948584
+2023-08-29,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,57752.179721871245
+2023-08-30,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,73225.3983774648
+2023-09-04,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,59410.86908381025
+2023-09-05,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,86872.95535652175
+2023-09-06,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,110940.23432918334
+2023-09-10,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,86805.29138864011
+2023-09-12,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,229809.74345218705
+2023-09-13,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,169626.74356272773
+2023-09-17,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,38882.07123038656
+2023-09-19,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,42851.81331165776
+2023-09-20,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,29131.34531508021
+2023-09-24,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,41540.56161869372
+2023-09-26,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,82894.2974170067
+2023-09-27,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,97472.4764635592
+2023-10-01,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,102973.69963201544
+2023-10-03,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,44697.23454051984
+2023-10-04,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,47031.67767238096
+2023-10-09,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,56467.37650046412
+2023-10-10,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,28381.261331554
+2023-10-11,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,38945.56103364293
+2023-10-15,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,24335.74405579832
+2023-10-17,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,46638.81074424242
+2023-10-18,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,38850.112661512605
+2023-10-22,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,64463.82645825763
+2023-10-24,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,51190.850518700616
+2023-10-25,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,52674.97297792717
+2023-10-29,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,48136.97021542484
+2023-10-31,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,25363.099111516607
+2023-11-01,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,21836.61063902155
+2023-11-05,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,21783.331927432657
+2023-11-07,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,77312.2796382888
+2023-11-08,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,78504.97032809413
+2023-11-12,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,36238.47542284017
+2023-11-14,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,35941.001587596904
+2023-11-15,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,67492.97273326204
+2023-11-19,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,41124.69692166596
+2023-11-20,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,74826.04841592266
+2023-11-21,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,65420.31515125696
+2023-11-26,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,92609.49888778906
+2023-11-28,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,104731.3656228164
+2023-11-29,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,69364.70828300204
+2023-12-03,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,121992.70767482354
+2023-12-05,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,339165.9261076346
+2023-12-06,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,226857.83624324773
+2023-12-10,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,76404.9806364706
+2023-12-12,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,106887.4959048366
+2023-12-13,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,123746.75137098042
+2023-12-17,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,71739.83874627452
+2023-12-19,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,521240.5022809688
+2023-12-20,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,200788.60606682356
+2023-12-25,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,275585.56306897354
+2023-12-26,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,1059008.9952483308
+2023-12-27,Hyperion Water Reclamation Plant (HWRP),"Los Angeles, CA",4000000,491858.9517812759
+2023-01-04,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,177522.39831578947
+2023-01-05,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,153118.5194560531
+2023-01-09,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,329042.08844884485
+2023-01-11,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,190856.88736969695
+2023-01-12,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,220289.47762962963
+2023-01-16,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,125470.76193732192
+2023-01-18,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,255709.4727975077
+2023-01-19,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,460270.1898039215
+2023-01-23,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,179882.30647811448
+2023-01-25,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,98305.46541387025
+2023-01-26,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,119105.0470748299
+2023-01-30,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,96813.45192509364
+2023-02-01,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,169219.17447975077
+2023-02-02,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,204958.770259887
+2023-02-06,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,158098.06393073592
+2023-02-08,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,155664.70695986037
+2023-02-09,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,304521.8756996997
+2023-02-13,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,480873.08757333335
+2023-02-15,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,637542.4678787878
+2023-02-16,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,309496.9650758621
+2023-02-22,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,122126.3610980392
+2023-02-23,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,213016.65130864197
+2023-02-27,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,93884.15018439716
+2023-03-01,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,84243.05918518521
+2023-03-02,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,168955.121689441
+2023-03-06,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,87400.18117761557
+2023-03-08,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,255575.21186666668
+2023-03-09,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,385100.3402393162
+2023-03-13,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,59220.75584180791
+2023-03-15,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,131192.71596
+2023-03-16,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,94642.1305507246
+2023-03-20,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,70211.96427240144
+2023-03-22,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,130671.3209777778
+2023-03-23,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,207459.6077604791
+2023-03-27,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,32982.20012549019
+2023-03-29,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,322622.3264847908
+2023-03-30,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,169204.07977411765
+2023-04-03,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,24537.24848930296
+2023-04-05,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,90594.94562778714
+2023-04-06,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,78943.61262762726
+2023-04-10,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,32188.58703756973
+2023-04-12,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,40911.935862686165
+2023-04-13,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,50236.174001584885
+2023-04-17,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,57396.873885010384
+2023-04-19,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,39434.45914244344
+2023-04-20,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,66019.42997579832
+2023-04-24,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,45616.01340557983
+2023-04-26,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,73894.40205108435
+2023-04-27,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,39187.5380321188
+2023-05-01,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,106644.06051208558
+2023-05-03,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,86582.67801617112
+2023-05-04,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,54453.7240620027
+2023-05-08,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,24088.34242126628
+2023-05-10,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,68153.52535341177
+2023-05-11,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,14064.800688019212
+2023-05-15,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,58474.61363806848
+2023-05-17,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,32545.91932773109
+2023-05-18,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,45121.53988225424
+2023-05-22,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,43266.38041084399
+2023-05-23,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,14224.029412335116
+2023-05-24,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,48864.572186761165
+2023-05-25,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,14274.280212866084
+2023-05-30,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,222393.22517647065
+2023-05-31,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,31525.60927801052
+2023-06-01,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,63297.65516834226
+2023-06-05,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,8947.636332901004
+2023-06-07,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,32112.91741579832
+2023-06-08,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,30234.64562207086
+2023-06-12,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,25908.478815254643
+2023-06-14,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,32845.90877045579
+2023-06-15,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,55717.98948078432
+2023-06-28,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,11235.115467327883
+2023-06-29,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,43988.71190859819
+2023-07-03,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,36046.73895295835
+2023-07-05,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,45134.31799652915
+2023-07-06,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,38089.04856861864
+2023-07-10,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,15415.109877436347
+2023-07-12,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,27955.40495396682
+2023-07-13,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,48123.47704419714
+2023-07-17,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,75237.39823462183
+2023-07-19,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,101717.11954584502
+2023-07-20,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,75281.27157943236
+2023-07-24,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,37040.37386056407
+2023-07-26,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,131280.6492687548
+2023-07-27,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,44965.93912520124
+2023-07-31,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,88382.15656179075
+2023-08-02,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,84568.13104678523
+2023-09-06,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,67470.15000993464
+2023-09-07,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,257212.3163496913
+2023-09-11,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,58986.46869441931
+2023-09-13,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,226426.8336464779
+2023-09-14,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,170524.47651610416
+2023-09-18,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,72655.45214875818
+2023-09-20,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,70713.9169549498
+2023-09-21,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,52104.05151824527
+2023-09-25,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,67932.06116574832
+2023-09-27,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,118643.68018705882
+2023-09-28,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,45590.836811851856
+2023-10-02,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,31115.066732824827
+2023-10-04,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,28908.130631808275
+2023-10-05,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,61439.96898420169
+2023-10-09,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,45358.65743740696
+2023-10-11,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,46582.372363848604
+2023-10-12,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,96330.520340584
+2023-10-16,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,57813.484958782006
+2023-10-18,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,41541.76666250268
+2023-10-19,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,116000.65251144153
+2023-10-23,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,29485.873133739013
+2023-10-25,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,34216.477660996854
+2023-10-26,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,88126.83822887701
+2023-10-30,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,73209.05874051883
+2023-11-01,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,100000.68056409869
+2023-11-02,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,48457.83889679951
+2023-11-06,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,60710.8534566845
+2023-11-08,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,54378.2409284169
+2023-11-09,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,127050.03613111807
+2023-11-13,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,39967.86806773207
+2023-11-15,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,354771.2159687953
+2023-11-16,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,132659.08010519034
+2023-11-20,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,41672.11448576637
+2023-11-22,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,59441.71059402715
+2023-11-27,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,110724.22207533062
+2023-11-29,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,200660.38943699916
+2023-11-30,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,90646.46792977376
+2023-12-04,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,62982.1064023661
+2023-12-06,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,420986.2656900256
+2023-12-07,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,131429.23309550603
+2023-12-11,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,109403.39334629154
+2023-12-13,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,282285.0239782313
+2023-12-14,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,139582.34513033452
+2023-12-18,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,139400.78704711408
+2023-12-20,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,240650.7599111404
+2023-12-21,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,273894.6917024859
+2023-12-25,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,358503.1973805573
+2023-12-27,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,32389.941646374333
+2023-12-28,Regional Water Recycling Plant No.1 (RP-1),"Ontario, CA",890000,188810.8938325096
