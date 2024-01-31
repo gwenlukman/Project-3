@@ -1,791 +1,312 @@
-collection_date,site_name,name,sewershed_pop,N_Gene_gc_g_dry_weight
-2023-01-03,East Bay Municipal Utility District,"Oakland, CA",740000,299863.5327407408
-2023-01-04,East Bay Municipal Utility District,"Oakland, CA",740000,58661.312527407405
-2023-01-05,East Bay Municipal Utility District,"Oakland, CA",740000,352958.65585321095
-2023-01-10,East Bay Municipal Utility District,"Oakland, CA",740000,104551.03439379846
-2023-01-11,East Bay Municipal Utility District,"Oakland, CA",740000,88848.66133333332
-2023-01-12,East Bay Municipal Utility District,"Oakland, CA",740000,131196.18027128425
-2023-01-17,East Bay Municipal Utility District,"Oakland, CA",740000,207263.290265233
-2023-01-18,East Bay Municipal Utility District,"Oakland, CA",740000,114733.0865665349
-2023-01-19,East Bay Municipal Utility District,"Oakland, CA",740000,44650.97421261261
-2023-01-24,East Bay Municipal Utility District,"Oakland, CA",740000,190607.3406464646
-2023-01-25,East Bay Municipal Utility District,"Oakland, CA",740000,222792.70074431057
-2023-01-26,East Bay Municipal Utility District,"Oakland, CA",740000,136098.77610256412
-2023-01-31,East Bay Municipal Utility District,"Oakland, CA",740000,169680.82492077726
-2023-02-01,East Bay Municipal Utility District,"Oakland, CA",740000,86389.36362666667
-2023-02-02,East Bay Municipal Utility District,"Oakland, CA",740000,372553.10058666667
-2023-02-07,East Bay Municipal Utility District,"Oakland, CA",740000,477891.5797150996
-2023-02-08,East Bay Municipal Utility District,"Oakland, CA",740000,26955.12952121212
-2023-02-09,East Bay Municipal Utility District,"Oakland, CA",740000,250850.73651758084
-2023-02-14,East Bay Municipal Utility District,"Oakland, CA",740000,318418.7396601308
-2023-02-15,East Bay Municipal Utility District,"Oakland, CA",740000,316561.0802007168
-2023-02-16,East Bay Municipal Utility District,"Oakland, CA",740000,116777.68460455486
-2023-02-21,East Bay Municipal Utility District,"Oakland, CA",740000,150537.54569204737
-2023-02-22,East Bay Municipal Utility District,"Oakland, CA",740000,171991.8888270945
-2023-02-23,East Bay Municipal Utility District,"Oakland, CA",740000,157631.6261082024
-2023-02-28,East Bay Municipal Utility District,"Oakland, CA",740000,320031.11481413204
-2023-03-01,East Bay Municipal Utility District,"Oakland, CA",740000,262376.14946341456
-2023-03-02,East Bay Municipal Utility District,"Oakland, CA",740000,197099.00605582923
-2023-03-07,East Bay Municipal Utility District,"Oakland, CA",740000,104552.23139784946
-2023-03-08,East Bay Municipal Utility District,"Oakland, CA",740000,102444.53814492752
-2023-03-09,East Bay Municipal Utility District,"Oakland, CA",740000,116552.50899800398
-2023-03-14,East Bay Municipal Utility District,"Oakland, CA",740000,146413.49117602993
-2023-03-15,East Bay Municipal Utility District,"Oakland, CA",740000,85797.45938508371
-2023-03-16,East Bay Municipal Utility District,"Oakland, CA",740000,65766.77161111111
-2023-03-21,East Bay Municipal Utility District,"Oakland, CA",740000,126237.3697142857
-2023-03-22,East Bay Municipal Utility District,"Oakland, CA",740000,87345.77955555555
-2023-03-23,East Bay Municipal Utility District,"Oakland, CA",740000,18835.39643572327
-2023-03-28,East Bay Municipal Utility District,"Oakland, CA",740000,120207.80393849988
-2023-03-29,East Bay Municipal Utility District,"Oakland, CA",740000,58166.87331812481
-2023-03-30,East Bay Municipal Utility District,"Oakland, CA",740000,523986.95998386544
-2023-04-04,East Bay Municipal Utility District,"Oakland, CA",740000,83826.41982069382
-2023-04-05,East Bay Municipal Utility District,"Oakland, CA",740000,139118.92243033744
-2023-04-06,East Bay Municipal Utility District,"Oakland, CA",740000,143474.8173777031
-2023-04-11,East Bay Municipal Utility District,"Oakland, CA",740000,37792.726988826485
-2023-04-12,East Bay Municipal Utility District,"Oakland, CA",740000,288489.4501693252
-2023-04-13,East Bay Municipal Utility District,"Oakland, CA",740000,15226.01960449438
-2023-04-18,East Bay Municipal Utility District,"Oakland, CA",740000,63315.52367757984
-2023-04-19,East Bay Municipal Utility District,"Oakland, CA",740000,102234.19156518747
-2023-04-20,East Bay Municipal Utility District,"Oakland, CA",740000,144227.37906009538
-2023-04-25,East Bay Municipal Utility District,"Oakland, CA",740000,111808.53003065952
-2023-04-26,East Bay Municipal Utility District,"Oakland, CA",740000,84534.58227732986
-2023-04-27,East Bay Municipal Utility District,"Oakland, CA",740000,87977.8242169297
-2023-05-02,East Bay Municipal Utility District,"Oakland, CA",740000,68192.04815927603
-2023-05-03,East Bay Municipal Utility District,"Oakland, CA",740000,173632.68660383194
-2023-05-04,East Bay Municipal Utility District,"Oakland, CA",740000,78505.09925349845
-2023-05-09,East Bay Municipal Utility District,"Oakland, CA",740000,62543.31732405153
-2023-05-10,East Bay Municipal Utility District,"Oakland, CA",740000,128327.8820392157
-2023-05-11,East Bay Municipal Utility District,"Oakland, CA",740000,116203.8225728149
-2023-05-16,East Bay Municipal Utility District,"Oakland, CA",740000,125436.88688214651
-2023-05-17,East Bay Municipal Utility District,"Oakland, CA",740000,85705.76059037435
-2023-05-18,East Bay Municipal Utility District,"Oakland, CA",740000,47905.988013467664
-2023-05-23,East Bay Municipal Utility District,"Oakland, CA",740000,36066.03676102302
-2023-05-24,East Bay Municipal Utility District,"Oakland, CA",740000,3894.620176280432
-2023-05-25,East Bay Municipal Utility District,"Oakland, CA",740000,101891.34047862267
-2023-05-30,East Bay Municipal Utility District,"Oakland, CA",740000,63964.20290966132
-2023-05-31,East Bay Municipal Utility District,"Oakland, CA",740000,10064.279840149396
-2023-06-01,East Bay Municipal Utility District,"Oakland, CA",740000,32548.806300346027
-2023-06-06,East Bay Municipal Utility District,"Oakland, CA",740000,8082.729243484412
-2023-06-07,East Bay Municipal Utility District,"Oakland, CA",740000,76963.48548840337
-2023-06-08,East Bay Municipal Utility District,"Oakland, CA",740000,0.0
-2023-06-13,East Bay Municipal Utility District,"Oakland, CA",740000,5898.246967138136
-2023-06-14,East Bay Municipal Utility District,"Oakland, CA",740000,29937.125898580125
-2023-06-15,East Bay Municipal Utility District,"Oakland, CA",740000,252335.8305853976
-2023-06-20,East Bay Municipal Utility District,"Oakland, CA",740000,70573.0667267974
-2023-06-21,East Bay Municipal Utility District,"Oakland, CA",740000,67705.52267864527
-2023-06-22,East Bay Municipal Utility District,"Oakland, CA",740000,34272.027895529405
-2023-06-27,East Bay Municipal Utility District,"Oakland, CA",740000,74300.07225434174
-2023-06-28,East Bay Municipal Utility District,"Oakland, CA",740000,95823.47094103212
-2023-06-29,East Bay Municipal Utility District,"Oakland, CA",740000,129034.05293107184
-2023-07-03,East Bay Municipal Utility District,"Oakland, CA",740000,34327.04483565397
-2023-07-05,East Bay Municipal Utility District,"Oakland, CA",740000,33894.95407642242
-2023-07-06,East Bay Municipal Utility District,"Oakland, CA",740000,75736.02581658972
-2023-07-11,East Bay Municipal Utility District,"Oakland, CA",740000,53089.73459369139
-2023-07-12,East Bay Municipal Utility District,"Oakland, CA",740000,63341.601569563936
-2023-07-13,East Bay Municipal Utility District,"Oakland, CA",740000,97824.57623126052
-2023-07-18,East Bay Municipal Utility District,"Oakland, CA",740000,46671.29346362679
-2023-07-19,East Bay Municipal Utility District,"Oakland, CA",740000,63635.07659509804
-2023-07-20,East Bay Municipal Utility District,"Oakland, CA",740000,47863.792247035526
-2023-07-24,East Bay Municipal Utility District,"Oakland, CA",740000,64642.98883233491
-2023-07-26,East Bay Municipal Utility District,"Oakland, CA",740000,95418.42319741436
-2023-07-27,East Bay Municipal Utility District,"Oakland, CA",740000,2892.8931421332595
-2023-08-01,East Bay Municipal Utility District,"Oakland, CA",740000,25996.707011764705
-2023-08-02,East Bay Municipal Utility District,"Oakland, CA",740000,135714.02361389532
-2023-08-03,East Bay Municipal Utility District,"Oakland, CA",740000,74663.56167214304
-2023-08-08,East Bay Municipal Utility District,"Oakland, CA",740000,227233.03861269107
-2023-08-09,East Bay Municipal Utility District,"Oakland, CA",740000,118194.09881981426
-2023-08-10,East Bay Municipal Utility District,"Oakland, CA",740000,53751.720729380606
-2023-08-15,East Bay Municipal Utility District,"Oakland, CA",740000,24095.85913755548
-2023-08-16,East Bay Municipal Utility District,"Oakland, CA",740000,85131.57893311846
-2023-08-17,East Bay Municipal Utility District,"Oakland, CA",740000,92045.71393492316
-2023-08-22,East Bay Municipal Utility District,"Oakland, CA",740000,76453.55126450503
-2023-08-23,East Bay Municipal Utility District,"Oakland, CA",740000,91763.84420392156
-2023-08-24,East Bay Municipal Utility District,"Oakland, CA",740000,275061.760372052
-2023-08-29,East Bay Municipal Utility District,"Oakland, CA",740000,109893.30068705884
-2023-08-30,East Bay Municipal Utility District,"Oakland, CA",740000,164370.56836693446
-2023-08-31,East Bay Municipal Utility District,"Oakland, CA",740000,123141.20914168798
-2023-09-06,East Bay Municipal Utility District,"Oakland, CA",740000,85560.4663969258
-2023-09-07,East Bay Municipal Utility District,"Oakland, CA",740000,223356.3001589244
-2023-09-12,East Bay Municipal Utility District,"Oakland, CA",740000,38506.8030922172
-2023-09-13,East Bay Municipal Utility District,"Oakland, CA",740000,2232.701840751678
-2023-09-14,East Bay Municipal Utility District,"Oakland, CA",740000,166348.3281589825
-2023-09-19,East Bay Municipal Utility District,"Oakland, CA",740000,41375.553851839
-2023-09-20,East Bay Municipal Utility District,"Oakland, CA",740000,36224.84440929972
-2023-09-21,East Bay Municipal Utility District,"Oakland, CA",740000,97576.02357544756
-2023-09-26,East Bay Municipal Utility District,"Oakland, CA",740000,62228.17883307757
-2023-09-27,East Bay Municipal Utility District,"Oakland, CA",740000,80303.21595981496
-2023-09-28,East Bay Municipal Utility District,"Oakland, CA",740000,8337.539504961096
-2023-10-03,East Bay Municipal Utility District,"Oakland, CA",740000,32883.08052982312
-2023-10-04,East Bay Municipal Utility District,"Oakland, CA",740000,38110.20987762135
-2023-10-05,East Bay Municipal Utility District,"Oakland, CA",740000,192431.6556322364
-2023-10-10,East Bay Municipal Utility District,"Oakland, CA",740000,52815.84040436239
-2023-10-11,East Bay Municipal Utility District,"Oakland, CA",740000,67364.96835764706
-2023-10-12,East Bay Municipal Utility District,"Oakland, CA",740000,25686.02432606335
-2023-10-17,East Bay Municipal Utility District,"Oakland, CA",740000,28066.456017469314
-2023-10-18,East Bay Municipal Utility District,"Oakland, CA",740000,60140.8948415101
-2023-10-19,East Bay Municipal Utility District,"Oakland, CA",740000,105722.95008627456
-2023-10-24,East Bay Municipal Utility District,"Oakland, CA",740000,17336.012622222224
-2023-10-25,East Bay Municipal Utility District,"Oakland, CA",740000,43296.54029903913
-2023-10-26,East Bay Municipal Utility District,"Oakland, CA",740000,42546.85184201368
-2023-10-31,East Bay Municipal Utility District,"Oakland, CA",740000,14710.973262047932
-2023-11-01,East Bay Municipal Utility District,"Oakland, CA",740000,17179.024052885154
-2023-11-02,East Bay Municipal Utility District,"Oakland, CA",740000,10580.030472136625
-2023-11-07,East Bay Municipal Utility District,"Oakland, CA",740000,112052.66791001032
-2023-11-08,East Bay Municipal Utility District,"Oakland, CA",740000,90851.6765744422
-2023-11-09,East Bay Municipal Utility District,"Oakland, CA",740000,63845.44038308038
-2023-11-14,East Bay Municipal Utility District,"Oakland, CA",740000,99338.33598301635
-2023-11-15,East Bay Municipal Utility District,"Oakland, CA",740000,74046.74489228419
-2023-11-16,East Bay Municipal Utility District,"Oakland, CA",740000,44491.98633116769
-2023-11-20,East Bay Municipal Utility District,"Oakland, CA",740000,84148.71459215689
-2023-11-21,East Bay Municipal Utility District,"Oakland, CA",740000,95905.24823886412
-2023-11-22,East Bay Municipal Utility District,"Oakland, CA",740000,101193.51036214264
-2023-11-28,East Bay Municipal Utility District,"Oakland, CA",740000,20621.82395607843
-2023-11-29,East Bay Municipal Utility District,"Oakland, CA",740000,154764.84877111562
-2023-11-30,East Bay Municipal Utility District,"Oakland, CA",740000,170442.74586672726
-2023-12-05,East Bay Municipal Utility District,"Oakland, CA",740000,113456.39946321418
-2023-12-06,East Bay Municipal Utility District,"Oakland, CA",740000,136623.42249533205
-2023-12-07,East Bay Municipal Utility District,"Oakland, CA",740000,33928.929589282954
-2023-12-12,East Bay Municipal Utility District,"Oakland, CA",740000,227825.04071234143
-2023-12-13,East Bay Municipal Utility District,"Oakland, CA",740000,671681.3928470588
-2023-12-14,East Bay Municipal Utility District,"Oakland, CA",740000,128800.45954179567
-2023-12-19,East Bay Municipal Utility District,"Oakland, CA",740000,209625.7874467974
-2023-12-20,East Bay Municipal Utility District,"Oakland, CA",740000,234851.629973392
-2023-12-21,East Bay Municipal Utility District,"Oakland, CA",740000,713087.6930795847
-2023-12-27,East Bay Municipal Utility District,"Oakland, CA",740000,193014.75243636363
-2023-12-28,East Bay Municipal Utility District,"Oakland, CA",740000,231148.0232149481
-2023-12-29,East Bay Municipal Utility District,"Oakland, CA",740000,494299.2427643093
-2023-01-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,237930.72720346323
-2023-01-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,605084.0292508592
-2023-01-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,140997.69914529918
-2023-01-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,401558.5381052631
-2023-01-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,118209.96112820516
-2023-01-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,421816.632
-2023-01-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,570158.9397647058
-2023-01-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,458047.34900343657
-2023-01-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,167289.2152280702
-2023-01-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,179107.8899119497
-2023-01-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,342142.5043348837
-2023-01-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,193604.8759069768
-2023-01-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,3320340.516721312
-2023-01-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,73976.85580800001
-2023-01-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,125942.598976
-2023-01-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,35959.174244444446
-2023-01-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,255610.41440837696
-2023-01-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,146437.1263049933
-2023-01-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,101648.77573925928
-2023-01-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,217115.45776051783
-2023-01-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,104473.61528205128
-2023-01-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,201806.97223529412
-2023-01-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,166749.33688888894
-2023-01-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,262423.81131034484
-2023-01-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,131927.08378691025
-2023-01-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,158598.39614358975
-2023-01-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,387610.4091056911
-2023-01-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,151601.2183703704
-2023-01-31,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,170541.37164800003
-2023-02-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,99246.20404415012
-2023-02-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,123651.13640100251
-2023-02-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,213516.60622222227
-2023-02-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,866279.4375059953
-2023-02-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,229188.3524463041
-2023-02-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,291142.5533675214
-2023-02-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,433776.3376926148
-2023-02-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,262117.82186666664
-2023-02-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,272689.37363573886
-2023-02-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,233705.7134107527
-2023-02-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,613084.1121495328
-2023-02-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,472410.0380573153
-2023-02-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,122059.3557709251
-2023-02-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,215618.5885259939
-2023-02-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,522409.2420116959
-2023-02-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,853333.3333333335
-2023-02-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,1136396.9508943092
-2023-02-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,1108704.126386555
-2023-02-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,193803.83743859653
-2023-02-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,245229.0852740741
-2023-02-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,371807.7175287958
-2023-02-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,328834.0053848632
-2023-02-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,296959.502124138
-2023-02-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,536279.2669803922
-2023-02-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,225882.553495935
-2023-02-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,2809257.935103245
-2023-03-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,156522.1150344828
-2023-03-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,118142.6653968254
-2023-03-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,326070.4607046071
-2023-03-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,950910.901870504
-2023-03-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,244295.30045771145
-2023-03-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,160705.07146308728
-2023-03-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,347013.5614092141
-2023-03-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,467131.9437660819
-2023-03-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,1381517.4807407411
-2023-03-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,101631.88322318842
-2023-03-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,301515.41889855074
-2023-03-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,339084.34257077024
-2023-03-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,339682.02468342264
-2023-03-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,446592.25797270605
-2023-03-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,1074591.8498431374
-2023-03-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,1257659.4880228164
-2023-03-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,424454.8009925134
-2023-03-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,706236.407000806
-2023-03-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,276254.8422455244
-2023-03-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,249954.18363377987
-2023-03-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,123464.823459094
-2023-03-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,58044.29456219609
-2023-03-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,148120.68408558654
-2023-03-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,348242.6795689018
-2023-03-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,227573.21006798837
-2023-03-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,1234571.8530013682
-2023-03-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,595153.4439810012
-2023-03-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,182409.95713272583
-2023-03-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,101680.10388295625
-2023-03-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,180612.5876753537
-2023-03-31,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,305653.2164392157
-2023-04-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,107693.21750266467
-2023-04-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,277144.6599341177
-2023-04-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,72099.8820678681
-2023-04-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,202972.22742369992
-2023-04-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,316540.3398287861
-2023-04-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,228255.7219070246
-2023-04-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,329062.69747450994
-2023-04-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,315916.402085419
-2023-04-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,186296.97888836605
-2023-04-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,175062.13994740485
-2023-04-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,266843.48586884106
-2023-04-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,239195.60579456485
-2023-04-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,79673.18727371453
-2023-04-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,108346.67816314766
-2023-04-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,194516.07942884776
-2023-04-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,190812.82559889925
-2023-04-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,189040.04138999604
-2023-04-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,220675.86153063588
-2023-04-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,148830.48617782068
-2023-04-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,244036.7274559296
-2023-04-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,329884.72167971195
-2023-04-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,314889.503018426
-2023-04-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,267066.79747764714
-2023-04-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,93652.85307272727
-2023-04-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,88679.1330384971
-2023-04-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,321310.8216952328
-2023-04-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,212054.77286839613
-2023-04-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,169965.37394467412
-2023-04-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,121411.71648515978
-2023-05-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,230592.3466521362
-2023-05-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,106406.64159830927
-2023-05-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,522069.4804576409
-2023-05-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,273552.42595330323
-2023-05-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,168947.06641389363
-2023-05-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,93468.51025390108
-2023-05-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,186400.78374901964
-2023-05-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,188004.26479203624
-2023-05-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,346264.2929205553
-2023-05-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,157126.78954711952
-2023-05-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,587202.6396992829
-2023-05-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,230657.81475054024
-2023-05-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,91898.14300971868
-2023-05-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,448376.6426640081
-2023-05-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,195141.0590926968
-2023-05-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,380901.9056156863
-2023-05-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,171688.16994483446
-2023-05-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,272148.54981002776
-2023-05-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,219624.01002848303
-2023-05-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,226108.9796741624
-2023-05-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,178137.35883737027
-2023-05-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,172223.04148559357
-2023-05-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,147315.0817191706
-2023-05-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,241760.2288430461
-2023-05-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,150642.36600094123
-2023-05-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,178847.2543089184
-2023-05-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,239391.68421478133
-2023-05-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,703265.45241605
-2023-05-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,140054.07590004298
-2023-05-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,425797.3690758371
-2023-05-31,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,233225.83290666676
-2023-06-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,201488.09199775915
-2023-06-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,332482.8058896438
-2023-06-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,210198.4128358544
-2023-06-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,291107.00188235304
-2023-06-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,182959.47978422817
-2023-06-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,203833.67614713337
-2023-06-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,200284.8319500601
-2023-06-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,155027.43509019612
-2023-06-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,175564.83989581637
-2023-06-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,360497.60160441184
-2023-06-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,85348.22533632691
-2023-06-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,182207.9132382518
-2023-06-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,82514.01298900362
-2023-06-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,206108.5084627932
-2023-06-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,249531.6856341881
-2023-06-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,305159.5612158983
-2023-06-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,126233.31460588238
-2023-06-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,109071.1058710021
-2023-06-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,49873.76504908723
-2023-06-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,169591.1904201681
-2023-06-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,102623.95419699444
-2023-06-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,190154.53846877837
-2023-06-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,69235.54213059659
-2023-06-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,154872.07634695913
-2023-06-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,95613.6017437748
-2023-06-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,68854.33597723668
-2023-06-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,111158.18238092212
-2023-06-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,107141.0716016116
-2023-06-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,70193.94648941178
-2023-07-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,91516.77715757836
-2023-07-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,60408.4525322129
-2023-07-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,332020.5788540258
-2023-07-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,187758.1758278992
-2023-07-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,142561.80098016807
-2023-07-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,101163.8046354286
-2023-07-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,149371.93243520297
-2023-07-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,216847.7153795308
-2023-07-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,162625.21319963803
-2023-07-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,116355.21812655011
-2023-07-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,109657.01102841142
-2023-07-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,160724.40031136668
-2023-07-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,176362.6237025093
-2023-07-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,156508.34445654086
-2023-07-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,56252.31125960786
-2023-07-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,185006.6628121492
-2023-07-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,311701.7435695503
-2023-07-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,469489.1660630445
-2023-07-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,196331.84072262145
-2023-07-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,166413.5442517953
-2023-07-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,255834.10767058827
-2023-07-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,771900.3836286517
-2023-07-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,279105.059233218
-2023-07-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,240565.62377213623
-2023-07-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,216735.08428955023
-2023-07-31,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,288142.9501236546
-2023-08-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,241712.879661421
-2023-08-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,241534.88833720295
-2023-08-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,380039.2533036567
-2023-08-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,341503.5091952942
-2023-08-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,203244.573264826
-2023-08-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,275234.94883639214
-2023-08-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,647937.6393628439
-2023-08-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,355205.30566635635
-2023-08-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,255184.0752104576
-2023-08-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,382669.5857020713
-2023-08-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,249153.7208997647
-2023-08-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,342615.3908329413
-2023-08-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,365278.9804893411
-2023-08-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,426470.66045031085
-2023-08-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,459313.1163482353
-2023-08-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,217564.02173252203
-2023-08-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,411335.909697789
-2023-08-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,221635.2360842682
-2023-08-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,451633.06388640986
-2023-08-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,296035.1660837919
-2023-08-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,443209.8216314765
-2023-08-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,550188.2999148938
-2023-08-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,571081.7527611766
-2023-08-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,316256.8164372671
-2023-08-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,523866.4979649599
-2023-08-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,429595.17853848735
-2023-08-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,446993.6614649176
-2023-08-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,320334.3001564981
-2023-08-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,262481.50614702323
-2023-08-31,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,231550.1733303657
-2023-09-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,247767.6531060233
-2023-09-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,194089.3784565233
-2023-09-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,262290.42192137166
-2023-09-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,185303.8260997075
-2023-09-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,232550.29297010257
-2023-09-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,646037.7051145514
-2023-09-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,386540.3448918284
-2023-09-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,130955.99905882357
-2023-09-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,237144.88034248372
-2023-09-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,318895.6765490197
-2023-09-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,223952.8832376471
-2023-09-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,346118.6276028418
-2023-09-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,131277.49172144683
-2023-09-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,225692.89612810465
-2023-09-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,723636.8548601308
-2023-09-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,237477.258226116
-2023-09-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,429012.6083510335
-2023-09-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,1531273.390677871
-2023-09-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,151326.4012681115
-2023-09-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,1128288.209160592
-2023-09-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,189374.48309381603
-2023-09-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,206777.53525504455
-2023-09-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,81964.47595294121
-2023-09-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,450745.39894819405
-2023-09-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,112762.11725995348
-2023-09-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,155949.55076343895
-2023-09-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,176033.83674781598
-2023-09-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,229683.07475846045
-2023-09-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,280984.5173927171
-2023-10-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,167503.04638855334
-2023-10-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,204839.08880357005
-2023-10-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,243029.7365843723
-2023-10-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,286456.917335615
-2023-10-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,197401.2489459299
-2023-10-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,130306.64570614
-2023-10-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,138364.5344563224
-2023-10-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,124360.46198230438
-2023-10-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,220357.84148997525
-2023-10-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,281798.8964492997
-2023-10-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,81967.50654048948
-2023-10-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,111896.4033179785
-2023-10-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,96913.33858300657
-2023-10-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,209309.12685693768
-2023-10-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,93755.65717865938
-2023-10-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,157013.89097265093
-2023-10-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,147156.23928027682
-2023-10-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,159268.29076816616
-2023-10-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,219541.4445117648
-2023-10-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,172664.88237631274
-2023-10-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,191864.3062380091
-2023-10-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,149101.87536274517
-2023-10-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,139681.28935442155
-2023-10-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,98187.24896233904
-2023-10-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,225523.7265475522
-2023-10-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,172682.06981135672
-2023-10-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,86582.81138519925
-2023-10-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,119803.67371989512
-2023-10-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,260608.2332145045
-2023-10-31,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,89633.08923012366
-2023-11-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,125954.6377520362
-2023-11-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,102951.7504707652
-2023-11-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,163271.39913294124
-2023-11-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,67321.26486269684
-2023-11-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,161068.4083450981
-2023-11-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,137289.95485972852
-2023-11-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,197374.49996850957
-2023-11-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,315053.7100894759
-2023-11-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,203271.19962838083
-2023-11-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,100169.92143529412
-2023-11-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,120688.26478914027
-2023-11-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,246632.42223141572
-2023-11-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,138412.4950414861
-2023-11-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,406141.7308400413
-2023-11-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,311088.4247929684
-2023-11-16,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,108210.90962112848
-2023-11-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,341535.60177406715
-2023-11-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,65423.03680690772
-2023-11-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,95367.63317894736
-2023-11-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,149911.13267450983
-2023-11-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,160933.4154526316
-2023-11-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,858080.6958431375
-2023-11-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,282170.1666988236
-2023-11-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,192678.72218398305
-2023-11-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,589569.2416275468
-2023-11-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,121771.8332346524
-2023-11-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,150443.83585335163
-2023-11-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,187416.01561301888
-2023-11-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,211496.4175159664
-2023-12-01,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,220051.72492482985
-2023-12-02,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,399677.4673388236
-2023-12-03,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,303361.98994196084
-2023-12-04,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,164977.27115946962
-2023-12-05,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,101692.5609789811
-2023-12-06,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,75399.00185130893
-2023-12-07,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,175427.65543993673
-2023-12-08,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,281686.69387279125
-2023-12-09,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,88075.02374453783
-2023-12-10,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,97066.08132761248
-2023-12-11,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,113304.03187421664
-2023-12-12,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,198089.4984695553
-2023-12-13,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,140608.6787628162
-2023-12-14,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,88541.45924316226
-2023-12-15,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,439570.53978742415
-2023-12-17,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,125990.33344171126
-2023-12-18,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,796407.3203830371
-2023-12-19,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,345505.4431563373
-2023-12-20,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,254805.61812620325
-2023-12-21,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,122686.06655022629
-2023-12-22,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,331281.4797349339
-2023-12-23,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,179072.8018378798
-2023-12-24,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,369687.7376666668
-2023-12-25,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,161585.1539572985
-2023-12-26,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,182470.07483778967
-2023-12-27,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,148900.02137914114
-2023-12-28,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,135450.29665970316
-2023-12-29,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,446547.53738982027
-2023-12-30,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,280385.49240171415
-2023-12-31,Oceanside Water Pollution Control Plant,"Oceanside, San Francisco, CA",250000,85884.80143358909
-2023-01-03,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,140556.42628571426
-2023-01-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,108437.65479136688
-2023-01-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,487763.801218107
-2023-01-10,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,438814.3502222223
-2023-01-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,653061.9653639848
-2023-01-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,1635414.7131733336
-2023-01-17,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,315482.3797410072
-2023-01-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,36169.48460155039
-2023-01-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,93559.5311020408
-2023-01-24,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,67839.53671957673
-2023-01-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,189949.44668013463
-2023-01-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,34942.82230465549
-2023-01-31,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,215063.94849249243
-2023-02-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,537853.2278762886
-2023-02-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,191751.0091851852
-2023-02-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,580947.2604670913
-2023-02-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,288954.6750877192
-2023-02-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,157775.26502988508
-2023-02-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,151278.86691625614
-2023-02-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,516786.6100363636
-2023-02-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,333426.7391834626
-2023-02-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,339265.4040283688
-2023-02-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,319030.11113178293
-2023-02-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,367822.0357948719
-2023-02-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,545576.9857122806
-2023-03-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,330029.2701052632
-2023-03-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,541234.8937599999
-2023-03-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,42008.99638857142
-2023-03-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,165995.8807912088
-2023-03-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,639952.0812851405
-2023-03-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,337302.44043781084
-2023-03-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,38688.35530212766
-2023-03-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,72341.97533004926
-2023-03-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,475072.553060932
-2023-03-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,59199.3121895093
-2023-03-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,255557.87266230935
-2023-03-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,17091.04187397647
-2023-03-29,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,140333.28181719457
-2023-03-30,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,55394.51299764706
-2023-04-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,231330.34935139632
-2023-04-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,110959.62522352944
-2023-04-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,342125.90638849675
-2023-04-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,365144.9781277737
-2023-04-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,100879.39831932774
-2023-04-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,442407.3534073872
-2023-04-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,223075.22046973265
-2023-04-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,230275.03801332388
-2023-04-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,310450.0581333334
-2023-04-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,130438.95356726344
-2023-04-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,151007.00537502018
-2023-04-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,170964.42727430342
-2023-05-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,234626.42177471268
-2023-05-03,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,38310.82330133335
-2023-05-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,75343.31185333813
-2023-05-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,408361.47323381127
-2023-05-10,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,53905.8976146272
-2023-05-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,216218.56639365503
-2023-05-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,145860.875040724
-2023-05-17,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,322345.03285392164
-2023-05-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,200808.11458212847
-2023-05-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,107332.3355392
-2023-05-24,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,112803.90148359133
-2023-05-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,74108.41940282719
-2023-05-30,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,66031.10833500796
-2023-05-31,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,155478.98605594772
-2023-06-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,160214.34542222222
-2023-06-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,174187.61261506708
-2023-06-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,100800.62921456584
-2023-06-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,137131.53169247607
-2023-06-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,16853.32275160494
-2023-06-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,74179.3372634814
-2023-06-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,260545.26184253395
-2023-06-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,19846.463979530698
-2023-06-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,31247.0783062126
-2023-06-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,38830.16991826245
-2023-06-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,95482.735565918
-2023-06-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,20496.77940949891
-2023-06-29,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,59798.0937683836
-2023-07-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,35463.40893259295
-2023-07-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,20010.15216199939
-2023-07-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,44442.14160700876
-2023-07-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,31510.320607349317
-2023-07-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,75118.80678396256
-2023-07-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,29759.139098605217
-2023-07-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,6488.880628845317
-2023-07-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,23617.92242968325
-2023-07-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,130717.0342383632
-2023-07-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,34738.73336032087
-2023-07-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,49168.17021037849
-2023-07-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,66448.3244417094
-2023-08-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,152287.1718357743
-2023-08-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,1047465.8210021788
-2023-08-03,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,131894.1870649616
-2023-08-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,368004.4854867793
-2023-08-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,125268.35204676654
-2023-08-10,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,52352.003043871744
-2023-08-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,207833.48044705883
-2023-08-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,203811.66988214
-2023-08-17,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,90077.39841201504
-2023-08-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,286915.6230501236
-2023-08-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,71797.44454074865
-2023-08-24,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,615846.3849680673
-2023-08-29,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,60181.05623696626
-2023-08-30,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,776429.9224568628
-2023-08-31,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,60855.89360445152
-2023-09-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,93207.1083572049
-2023-09-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,26849.71150748924
-2023-09-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,30079.18554124147
-2023-09-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,79844.94446455505
-2023-09-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,83985.7028247059
-2023-09-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,135266.6818901961
-2023-09-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,33653.182609530595
-2023-09-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,29656.323961406782
-2023-09-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,23163.57067518208
-2023-09-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,203383.22504996185
-2023-09-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,38640.03121808824
-2023-09-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,100643.7704568471
-2023-10-03,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,173995.80763707153
-2023-10-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,147831.8776888889
-2023-10-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,97626.12643078616
-2023-10-10,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,82768.99997195677
-2023-10-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,43760.59570443256
-2023-10-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,55047.12355114439
-2023-10-17,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,14120.51985882353
-2023-10-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,119650.17783652178
-2023-10-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,59849.31752817338
-2023-10-24,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,70435.53407028462
-2023-10-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,20428.661564793038
-2023-10-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,321473.6133851662
-2023-10-31,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,29196.15302618273
-2023-11-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,153728.46673534712
-2023-11-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,60161.41357192699
-2023-11-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,73764.55672041059
-2023-11-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,117437.97167152008
-2023-11-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,151221.92981128453
-2023-11-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,36064.1794375408
-2023-11-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,74298.86164586745
-2023-11-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,317985.9476377766
-2023-11-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,13451.679140591346
-2023-11-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,220491.1737617309
-2023-11-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,145352.56437297034
-2023-11-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,110027.53067212275
-2023-11-29,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,46765.590785416425
-2023-11-30,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,126789.47408009508
-2023-12-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,21173.942201432998
-2023-12-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,117939.77672067223
-2023-12-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,152770.15182076726
-2023-12-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,180751.88530678736
-2023-12-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,161272.4232069565
-2023-12-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,222066.70692868883
-2023-12-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,115515.84324566656
-2023-12-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,129576.9304530031
-2023-12-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,1441553.12153802
-2023-12-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,156053.62788788928
-2023-12-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,1359018.325845899
-2023-12-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,251795.21354446208
-2023-01-03,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,357525.04297435895
-2023-01-04,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,581730.1981981981
-2023-01-05,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,529679.541512605
-2023-01-10,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,186360.36518238997
-2023-01-11,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,203197.29759307363
-2023-01-12,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,68671.89988243727
-2023-01-17,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,165126.76927650272
-2023-01-18,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,59406.23863952096
-2023-01-19,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,111041.8896372093
-2023-01-24,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,178435.55684848482
-2023-01-25,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,236607.73850980384
-2023-01-26,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,420236.5266118722
-2023-01-31,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,97097.24674074074
-2023-02-01,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,222791.0140689655
-2023-02-03,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,360891.2458989899
-2023-02-07,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,163299.28409661833
-2023-02-08,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,141682.70535111113
-2023-02-09,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,67525.6674238683
-2023-02-14,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,198185.1968514056
-2023-02-15,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,166199.7029019608
-2023-02-16,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,137004.4889977324
-2023-02-21,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,464825.2401924399
-2023-02-22,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,519941.2177254902
-2023-02-23,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,158226.17391570882
-2023-02-28,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,384163.4003478261
-2023-03-01,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,218736.4111164658
-2023-03-27,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,333672.1599077279
-2023-03-28,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,71903.74120470588
-2023-03-29,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,179114.06631586456
-2023-04-04,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,81881.48013256009
-2023-04-05,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,372820.7952605964
-2023-04-11,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,173540.92495750298
-2023-04-12,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,140586.89611140458
-2023-04-13,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,87360.77988036601
-2023-04-17,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,50943.97913611408
-2023-04-18,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,42268.34624563426
-2023-04-19,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,193836.715177282
-2023-04-25,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,66940.42424586783
-2023-04-26,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,44993.51417663865
-2023-04-27,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,340545.00316754566
-2023-05-01,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,78704.91235596138
-2023-05-02,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,87011.40732577539
-2023-05-03,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,66274.3618933537
-2023-05-04,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,62143.20634229509
-2023-05-08,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,88454.79362039217
-2023-05-09,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,79253.17289282837
-2023-05-10,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,66989.73564909224
-2023-05-15,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,43700.60594980392
-2023-05-23,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,207462.677338886
-2023-06-06,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,57823.36568924951
-2023-06-07,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,67566.60724384863
-2023-06-08,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,107324.63601802252
-2023-06-12,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,87745.5698762353
-2023-06-13,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,73698.78992941177
-2023-06-14,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,41972.71135623529
-2023-06-19,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,32755.05890916613
-2023-06-20,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,66828.80002680927
-2023-06-21,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,42606.52121868375
-2023-06-26,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,39658.38914334119
-2023-06-27,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,18263.96655787904
-2023-06-28,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,123603.1529480214
-2023-07-11,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,34364.117787237075
-2023-07-12,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,116181.2986244563
-2023-07-13,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,41870.45457867414
-2023-07-18,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,489328.571385822
-2023-07-19,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,371185.7548988236
-2023-07-20,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,259478.7846434225
-2023-07-25,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,107244.4915764706
-2023-07-26,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,81276.94340823531
-2023-07-27,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,344045.4700047059
-2023-08-01,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,75502.12806704764
-2023-08-02,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,177842.8585116494
-2023-08-03,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,155729.55868204436
-2023-08-08,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,93745.65176470584
-2023-08-09,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,186561.8761788236
-2023-08-10,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,120573.33813378152
-2023-08-15,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,226361.605256702
-2023-08-16,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,851113.4436392158
-2023-08-17,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,231224.68804033616
-2023-08-22,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,229622.49956997973
-2023-08-23,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,236305.74658229592
-2023-08-24,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,191898.0681147996
-2023-08-29,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,302232.3300746803
-2023-08-30,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,113332.31859756228
-2023-08-31,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,244662.2063058824
-2023-09-05,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,249219.8827894869
-2023-09-06,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,104016.4358839216
-2023-09-07,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,95271.9283033111
-2023-09-12,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,73503.6651144757
-2023-09-13,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,61863.35096560225
-2023-09-14,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,87762.71647000521
-2023-09-19,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,114067.46505853304
-2023-09-20,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,188227.0625016904
-2023-09-21,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,138699.20050459713
-2023-09-26,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,333026.3998776471
-2023-09-27,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,145121.74974313725
-2023-10-03,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,52653.72029535477
-2023-10-10,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,51755.041300271485
-2023-10-11,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,21439.61601173248
-2023-10-12,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,17532.944116705883
-2023-10-17,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,183169.6284320856
-2023-10-18,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,401198.816521057
-2023-10-19,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,88793.5017296987
-2023-10-24,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,239695.47962750625
-2023-10-25,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,57805.6666037285
-2023-10-26,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,71880.67706846673
-2023-10-31,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,82207.33754352941
-2023-11-01,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,796649.9277086835
-2023-11-02,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,67195.93865965397
-2023-11-07,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,128170.84541447964
-2023-11-09,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,228314.3720057792
-2023-11-14,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,36568.74865859398
-2023-11-16,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,118675.29039767035
-2023-11-21,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,20122.0565657971
-2023-11-22,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,226951.6166445013
-2023-11-27,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,76261.93603526709
-2023-11-29,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,147119.35307111955
-2023-11-30,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,92887.26205596996
-2023-12-05,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,36719.934159477125
-2023-12-06,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,225544.1120213904
-2023-12-07,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,805433.3854588235
-2023-12-12,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,168985.97819852445
-2023-12-13,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,362593.8504755131
-2023-12-14,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,587632.4194056108
-2023-12-19,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,75810.71853176472
-2023-12-20,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,578489.1359356038
-2023-12-21,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,461381.4500682156
-2023-12-26,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,84310.81225749626
-2023-12-27,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,596647.6782651305
-2023-12-28,Sausalito-Marin City Sanitary District,"Sausalito, CA",18000,65952.1648002046
+collection_date,site_name,name,sewershed_pop,N_Gene_gc_g_dry_weight,Average
+2023-01-03,East Bay Municipal Utility District,"Oakland, CA",740000,299863.5327407408,0.40522099019019026
+2023-01-04,East Bay Municipal Utility District,"Oakland, CA",740000,58661.312527407405,0.07927204395595595
+2023-01-05,East Bay Municipal Utility District,"Oakland, CA",740000,352958.65585321095,0.4769711565583932
+2023-01-10,East Bay Municipal Utility District,"Oakland, CA",740000,104551.03439379846,0.14128518161324116
+2023-01-11,East Bay Municipal Utility District,"Oakland, CA",740000,88848.66133333332,0.12006575855855854
+2023-01-12,East Bay Municipal Utility District,"Oakland, CA",740000,131196.18027128425,0.17729213550173548
+2023-01-17,East Bay Municipal Utility District,"Oakland, CA",740000,207263.290265233,0.28008552738545
+2023-01-18,East Bay Municipal Utility District,"Oakland, CA",740000,114733.0865665349,0.15504471157639851
+2023-01-19,East Bay Municipal Utility District,"Oakland, CA",740000,44650.97421261261,0.06033915434136839
+2023-01-24,East Bay Municipal Utility District,"Oakland, CA",740000,190607.3406464646,0.2575774873600873
+2023-01-25,East Bay Municipal Utility District,"Oakland, CA",740000,222792.70074431057,0.30107121722204133
+2023-01-26,East Bay Municipal Utility District,"Oakland, CA",740000,136098.77610256412,0.18391726500346503
+2023-01-31,East Bay Municipal Utility District,"Oakland, CA",740000,169680.82492077726,0.2292984120551044
+2023-02-01,East Bay Municipal Utility District,"Oakland, CA",740000,86389.36362666667,0.11674238327927929
+2023-02-02,East Bay Municipal Utility District,"Oakland, CA",740000,372553.10058666667,0.503450135927928
+2023-02-07,East Bay Municipal Utility District,"Oakland, CA",740000,477891.5797150996,0.6457994320474318
+2023-02-08,East Bay Municipal Utility District,"Oakland, CA",740000,26955.12952121212,0.0364258507043407
+2023-02-09,East Bay Municipal Utility District,"Oakland, CA",740000,250850.73651758084,0.33898748178051463
+2023-02-14,East Bay Municipal Utility District,"Oakland, CA",740000,318418.7396601308,0.43029559413531193
+2023-02-15,East Bay Municipal Utility District,"Oakland, CA",740000,316561.0802007168,0.42778524351448216
+2023-02-16,East Bay Municipal Utility District,"Oakland, CA",740000,116777.68460455486,0.15780768189804711
+2023-02-21,East Bay Municipal Utility District,"Oakland, CA",740000,150537.54569204737,0.203429115800064
+2023-02-22,East Bay Municipal Utility District,"Oakland, CA",740000,171991.8888270945,0.2324214713879655
+2023-02-23,East Bay Municipal Utility District,"Oakland, CA",740000,157631.6261082024,0.21301571095703029
+2023-02-28,East Bay Municipal Utility District,"Oakland, CA",740000,320031.11481413204,0.43247447947855683
+2023-03-01,East Bay Municipal Utility District,"Oakland, CA",740000,262376.14946341456,0.3545623641397494
+2023-03-02,East Bay Municipal Utility District,"Oakland, CA",740000,197099.00605582923,0.26635000818355303
+2023-03-07,East Bay Municipal Utility District,"Oakland, CA",740000,104552.23139784946,0.14128679918628306
+2023-03-08,East Bay Municipal Utility District,"Oakland, CA",740000,102444.53814492752,0.13843856506071286
+2023-03-09,East Bay Municipal Utility District,"Oakland, CA",740000,116552.50899800398,0.1575033905378432
+2023-03-14,East Bay Municipal Utility District,"Oakland, CA",740000,146413.49117602993,0.1978560691567972
+2023-03-15,East Bay Municipal Utility District,"Oakland, CA",740000,85797.45938508371,0.11594251268254556
+2023-03-16,East Bay Municipal Utility District,"Oakland, CA",740000,65766.77161111111,0.08887401569069069
+2023-03-21,East Bay Municipal Utility District,"Oakland, CA",740000,126237.3697142857,0.17059104015444013
+2023-03-22,East Bay Municipal Utility District,"Oakland, CA",740000,87345.77955555555,0.11803483723723723
+2023-03-23,East Bay Municipal Utility District,"Oakland, CA",740000,18835.39643572327,0.025453238426653067
+2023-03-28,East Bay Municipal Utility District,"Oakland, CA",740000,120207.80393849988,0.1624429782952701
+2023-03-29,East Bay Municipal Utility District,"Oakland, CA",740000,58166.87331812481,0.07860388286233082
+2023-03-30,East Bay Municipal Utility District,"Oakland, CA",740000,523986.95998386544,0.708090486464683
+2023-04-04,East Bay Municipal Utility District,"Oakland, CA",740000,83826.41982069382,0.11327894570364029
+2023-04-05,East Bay Municipal Utility District,"Oakland, CA",740000,139118.92243033744,0.18799854382478032
+2023-04-06,East Bay Municipal Utility District,"Oakland, CA",740000,143474.8173777031,0.1938848883482474
+2023-04-11,East Bay Municipal Utility District,"Oakland, CA",740000,37792.726988826485,0.05107125268760336
+2023-04-12,East Bay Municipal Utility District,"Oakland, CA",740000,288489.4501693252,0.389850608336926
+2023-04-13,East Bay Municipal Utility District,"Oakland, CA",740000,15226.01960449438,0.02057570216823565
+2023-04-18,East Bay Municipal Utility District,"Oakland, CA",740000,63315.52367757984,0.085561518483216
+2023-04-19,East Bay Municipal Utility District,"Oakland, CA",740000,102234.19156518747,0.13815431292592903
+2023-04-20,East Bay Municipal Utility District,"Oakland, CA",740000,144227.37906009538,0.19490186359472347
+2023-04-25,East Bay Municipal Utility District,"Oakland, CA",740000,111808.53003065952,0.1510926081495399
+2023-04-26,East Bay Municipal Utility District,"Oakland, CA",740000,84534.58227732986,0.1142359219963917
+2023-04-27,East Bay Municipal Utility District,"Oakland, CA",740000,87977.8242169297,0.1188889516444996
+2023-05-02,East Bay Municipal Utility District,"Oakland, CA",740000,68192.04815927603,0.0921514164314541
+2023-05-03,East Bay Municipal Utility District,"Oakland, CA",740000,173632.68660383194,0.23463876568085398
+2023-05-04,East Bay Municipal Utility District,"Oakland, CA",740000,78505.09925349845,0.1060879719641871
+2023-05-09,East Bay Municipal Utility District,"Oakland, CA",740000,62543.31732405153,0.08451799638385342
+2023-05-10,East Bay Municipal Utility District,"Oakland, CA",740000,128327.8820392157,0.17341605680975095
+2023-05-11,East Bay Municipal Utility District,"Oakland, CA",740000,116203.8225728149,0.15703219266596607
+2023-05-16,East Bay Municipal Utility District,"Oakland, CA",740000,125436.88688214651,0.1695093065974953
+2023-05-17,East Bay Municipal Utility District,"Oakland, CA",740000,85705.76059037435,0.11581859539239778
+2023-05-18,East Bay Municipal Utility District,"Oakland, CA",740000,47905.988013467664,0.06473782163982117
+2023-05-23,East Bay Municipal Utility District,"Oakland, CA",740000,36066.03676102302,0.04873788751489597
+2023-05-24,East Bay Municipal Utility District,"Oakland, CA",740000,3894.620176280432,0.0052630002382168
+2023-05-25,East Bay Municipal Utility District,"Oakland, CA",740000,101891.34047862267,0.1376910006467874
+2023-05-30,East Bay Municipal Utility District,"Oakland, CA",740000,63964.20290966132,0.08643811204008287
+2023-05-31,East Bay Municipal Utility District,"Oakland, CA",740000,10064.279840149396,0.013600378162364049
+2023-06-01,East Bay Municipal Utility District,"Oakland, CA",740000,32548.806300346027,0.04398487337884598
+2023-06-06,East Bay Municipal Utility District,"Oakland, CA",740000,8082.729243484412,0.010922607085789746
+2023-06-07,East Bay Municipal Utility District,"Oakland, CA",740000,76963.48548840337,0.10400471011946401
+2023-06-08,East Bay Municipal Utility District,"Oakland, CA",740000,0.0,0.0
+2023-06-13,East Bay Municipal Utility District,"Oakland, CA",740000,5898.246967138136,0.00797060400964613
+2023-06-14,East Bay Municipal Utility District,"Oakland, CA",740000,29937.125898580125,0.040455575538621794
+2023-06-15,East Bay Municipal Utility District,"Oakland, CA",740000,252335.8305853976,0.3409943656559427
+2023-06-20,East Bay Municipal Utility District,"Oakland, CA",740000,70573.0667267974,0.09536900909026677
+2023-06-21,East Bay Municipal Utility District,"Oakland, CA",740000,67705.52267864527,0.09149394956573685
+2023-06-22,East Bay Municipal Utility District,"Oakland, CA",740000,34272.027895529405,0.04631355121017487
+2023-06-27,East Bay Municipal Utility District,"Oakland, CA",740000,74300.07225434174,0.10040550304640775
+2023-06-28,East Bay Municipal Utility District,"Oakland, CA",740000,95823.47094103212,0.12949117694734072
+2023-06-29,East Bay Municipal Utility District,"Oakland, CA",740000,129034.05293107184,0.17437034179874572
+2023-07-03,East Bay Municipal Utility District,"Oakland, CA",740000,34327.04483565397,0.046387898426559424
+2023-07-05,East Bay Municipal Utility District,"Oakland, CA",740000,33894.95407642242,0.04580399199516544
+2023-07-06,East Bay Municipal Utility District,"Oakland, CA",740000,75736.02581658972,0.10234598083322936
+2023-07-11,East Bay Municipal Utility District,"Oakland, CA",740000,53089.73459369139,0.07174288458606945
+2023-07-12,East Bay Municipal Utility District,"Oakland, CA",740000,63341.601569563936,0.0855967588777891
+2023-07-13,East Bay Municipal Utility District,"Oakland, CA",740000,97824.57623126052,0.1321953732854872
+2023-07-18,East Bay Municipal Utility District,"Oakland, CA",740000,46671.29346362679,0.06306931549138756
+2023-07-19,East Bay Municipal Utility District,"Oakland, CA",740000,63635.07659509804,0.0859933467501325
+2023-07-20,East Bay Municipal Utility District,"Oakland, CA",740000,47863.792247035526,0.06468080033383179
+2023-07-24,East Bay Municipal Utility District,"Oakland, CA",740000,64642.98883233491,0.0873553903139661
+2023-07-26,East Bay Municipal Utility District,"Oakland, CA",740000,95418.42319741436,0.12894381513164102
+2023-07-27,East Bay Municipal Utility District,"Oakland, CA",740000,2892.8931421332595,0.003909315056936837
+2023-08-01,East Bay Municipal Utility District,"Oakland, CA",740000,25996.707011764705,0.03513068515103339
+2023-08-02,East Bay Municipal Utility District,"Oakland, CA",740000,135714.02361389532,0.18339732920796664
+2023-08-03,East Bay Municipal Utility District,"Oakland, CA",740000,74663.56167214304,0.10089670496235546
+2023-08-08,East Bay Municipal Utility District,"Oakland, CA",740000,227233.03861269107,0.30707167380093386
+2023-08-09,East Bay Municipal Utility District,"Oakland, CA",740000,118194.09881981426,0.15972175516191117
+2023-08-10,East Bay Municipal Utility District,"Oakland, CA",740000,53751.720729380606,0.07263746044510892
+2023-08-15,East Bay Municipal Utility District,"Oakland, CA",740000,24095.85913755548,0.0325619718075074
+2023-08-16,East Bay Municipal Utility District,"Oakland, CA",740000,85131.57893311846,0.11504267423394388
+2023-08-17,East Bay Municipal Utility District,"Oakland, CA",740000,92045.71393492316,0.12438609991205832
+2023-08-22,East Bay Municipal Utility District,"Oakland, CA",740000,76453.55126450503,0.10331560981689869
+2023-08-23,East Bay Municipal Utility District,"Oakland, CA",740000,91763.84420392156,0.12400519487016427
+2023-08-24,East Bay Municipal Utility District,"Oakland, CA",740000,275061.760372052,0.37170508158385407
+2023-08-29,East Bay Municipal Utility District,"Oakland, CA",740000,109893.30068705884,0.14850446038791737
+2023-08-30,East Bay Municipal Utility District,"Oakland, CA",740000,164370.56836693446,0.22212238968504658
+2023-08-31,East Bay Municipal Utility District,"Oakland, CA",740000,123141.20914168798,0.16640703938065943
+2023-09-06,East Bay Municipal Utility District,"Oakland, CA",740000,85560.4663969258,0.11562225188773756
+2023-09-07,East Bay Municipal Utility District,"Oakland, CA",740000,223356.3001589244,0.3018328380526005
+2023-09-12,East Bay Municipal Utility District,"Oakland, CA",740000,38506.8030922172,0.0520362203948881
+2023-09-13,East Bay Municipal Utility District,"Oakland, CA",740000,2232.701840751678,0.0030171646496644296
+2023-09-14,East Bay Municipal Utility District,"Oakland, CA",740000,166348.3281589825,0.22479503805267906
+2023-09-19,East Bay Municipal Utility District,"Oakland, CA",740000,41375.553851839,0.055912910610593246
+2023-09-20,East Bay Municipal Utility District,"Oakland, CA",740000,36224.84440929972,0.04895249244499963
+2023-09-21,East Bay Municipal Utility District,"Oakland, CA",740000,97576.02357544756,0.13185949131817237
+2023-09-26,East Bay Municipal Utility District,"Oakland, CA",740000,62228.17883307757,0.08409213355821293
+2023-09-27,East Bay Municipal Utility District,"Oakland, CA",740000,80303.21595981496,0.10851785940515535
+2023-09-28,East Bay Municipal Utility District,"Oakland, CA",740000,8337.539504961096,0.011266945276974454
+2023-10-03,East Bay Municipal Utility District,"Oakland, CA",740000,32883.08052982312,0.044436595310571786
+2023-10-04,East Bay Municipal Utility District,"Oakland, CA",740000,38110.20987762135,0.051500283618407236
+2023-10-05,East Bay Municipal Utility District,"Oakland, CA",740000,192431.6556322364,0.2600427778814005
+2023-10-10,East Bay Municipal Utility District,"Oakland, CA",740000,52815.84040436239,0.07137275730319241
+2023-10-11,East Bay Municipal Utility District,"Oakland, CA",740000,67364.96835764706,0.09103374102384737
+2023-10-12,East Bay Municipal Utility District,"Oakland, CA",740000,25686.02432606335,0.03471084368386939
+2023-10-17,East Bay Municipal Utility District,"Oakland, CA",740000,28066.456017469314,0.03792764326685043
+2023-10-18,East Bay Municipal Utility District,"Oakland, CA",740000,60140.8948415101,0.08127147951555419
+2023-10-19,East Bay Municipal Utility District,"Oakland, CA",740000,105722.95008627456,0.1428688514679386
+2023-10-24,East Bay Municipal Utility District,"Oakland, CA",740000,17336.012622222224,0.023427044084084088
+2023-10-25,East Bay Municipal Utility District,"Oakland, CA",740000,43296.54029903913,0.05850883824194477
+2023-10-26,East Bay Municipal Utility District,"Oakland, CA",740000,42546.85184201368,0.05749574573245092
+2023-10-31,East Bay Municipal Utility District,"Oakland, CA",740000,14710.973262047932,0.01987969359736207
+2023-11-01,East Bay Municipal Utility District,"Oakland, CA",740000,17179.024052885154,0.023214897368763723
+2023-11-02,East Bay Municipal Utility District,"Oakland, CA",740000,10580.030472136625,0.014297338475860304
+2023-11-07,East Bay Municipal Utility District,"Oakland, CA",740000,112052.66791001032,0.15142252420271665
+2023-11-08,East Bay Municipal Utility District,"Oakland, CA",740000,90851.6765744422,0.12277253591140838
+2023-11-09,East Bay Municipal Utility District,"Oakland, CA",740000,63845.44038308038,0.08627762213929781
+2023-11-14,East Bay Municipal Utility District,"Oakland, CA",740000,99338.33598301635,0.13424099457164373
+2023-11-15,East Bay Municipal Utility District,"Oakland, CA",740000,74046.74489228419,0.10006316877335701
+2023-11-16,East Bay Municipal Utility District,"Oakland, CA",740000,44491.98633116769,0.060124305852929306
+2023-11-20,East Bay Municipal Utility District,"Oakland, CA",740000,84148.71459215689,0.11371447917859039
+2023-11-21,East Bay Municipal Utility District,"Oakland, CA",740000,95905.24823886412,0.12960168680927583
+2023-11-22,East Bay Municipal Utility District,"Oakland, CA",740000,101193.51036214264,0.13674798697586843
+2023-11-28,East Bay Municipal Utility District,"Oakland, CA",740000,20621.82395607843,0.027867329670376258
+2023-11-29,East Bay Municipal Utility District,"Oakland, CA",740000,154764.84877111562,0.20914168752853463
+2023-11-30,East Bay Municipal Utility District,"Oakland, CA",740000,170442.74586672726,0.23032803495503684
+2023-12-05,East Bay Municipal Utility District,"Oakland, CA",740000,113456.39946321418,0.1533194587340732
+2023-12-06,East Bay Municipal Utility District,"Oakland, CA",740000,136623.42249533205,0.18462624661531357
+2023-12-07,East Bay Municipal Utility District,"Oakland, CA",740000,33928.929589282954,0.04584990485038237
+2023-12-12,East Bay Municipal Utility District,"Oakland, CA",740000,227825.04071234143,0.30787167663829923
+2023-12-13,East Bay Municipal Utility District,"Oakland, CA",740000,671681.3928470588,0.9076775579014309
+2023-12-14,East Bay Municipal Utility District,"Oakland, CA",740000,128800.45954179567,0.17405467505648065
+2023-12-19,East Bay Municipal Utility District,"Oakland, CA",740000,209625.7874467974,0.2832780911443208
+2023-12-20,East Bay Municipal Utility District,"Oakland, CA",740000,234851.629973392,0.3173670675316108
+2023-12-21,East Bay Municipal Utility District,"Oakland, CA",740000,713087.6930795847,0.9636320176751145
+2023-12-27,East Bay Municipal Utility District,"Oakland, CA",740000,193014.75243636363,0.26083074653562655
+2023-12-28,East Bay Municipal Utility District,"Oakland, CA",740000,231148.0232149481,0.31236219353371364
+2023-12-29,East Bay Municipal Utility District,"Oakland, CA",740000,494299.2427643093,0.667971949681499
+2023-01-03,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,140556.42628571426,2.811128525714285
+2023-01-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,108437.65479136688,2.1687530958273373
+2023-01-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,487763.801218107,9.75527602436214
+2023-01-10,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,438814.3502222223,8.776287004444445
+2023-01-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,653061.9653639848,13.061239307279696
+2023-01-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,1635414.7131733336,32.70829426346667
+2023-01-17,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,315482.3797410072,6.309647594820143
+2023-01-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,36169.48460155039,0.7233896920310079
+2023-01-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,93559.5311020408,1.8711906220408159
+2023-01-24,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,67839.53671957673,1.3567907343915346
+2023-01-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,189949.44668013463,3.7989889336026925
+2023-01-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,34942.82230465549,0.6988564460931098
+2023-01-31,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,215063.94849249243,4.301278969849848
+2023-02-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,537853.2278762886,10.757064557525771
+2023-02-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,191751.0091851852,3.835020183703704
+2023-02-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,580947.2604670913,11.618945209341828
+2023-02-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,288954.6750877192,5.779093501754384
+2023-02-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,157775.26502988508,3.1555053005977016
+2023-02-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,151278.86691625614,3.0255773383251228
+2023-02-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,516786.6100363636,10.335732200727271
+2023-02-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,333426.7391834626,6.6685347836692515
+2023-02-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,339265.4040283688,6.785308080567376
+2023-02-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,319030.11113178293,6.380602222635659
+2023-02-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,367822.0357948719,7.356440715897438
+2023-02-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,545576.9857122806,10.911539714245611
+2023-03-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,330029.2701052632,6.600585402105264
+2023-03-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,541234.8937599999,10.824697875199998
+2023-03-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,42008.99638857142,0.8401799277714284
+2023-03-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,165995.8807912088,3.319917615824176
+2023-03-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,639952.0812851405,12.79904162570281
+2023-03-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,337302.44043781084,6.746048808756217
+2023-03-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,38688.35530212766,0.7737671060425532
+2023-03-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,72341.97533004926,1.4468395066009851
+2023-03-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,475072.553060932,9.50145106121864
+2023-03-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,59199.3121895093,1.183986243790186
+2023-03-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,255557.87266230935,5.111157453246187
+2023-03-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,17091.04187397647,0.34182083747952935
+2023-03-29,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,140333.28181719457,2.8066656363438915
+2023-03-30,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,55394.51299764706,1.1078902599529412
+2023-04-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,231330.34935139632,4.626606987027927
+2023-04-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,110959.62522352944,2.219192504470589
+2023-04-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,342125.90638849675,6.842518127769935
+2023-04-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,365144.9781277737,7.302899562555473
+2023-04-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,100879.39831932774,2.0175879663865546
+2023-04-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,442407.3534073872,8.848147068147744
+2023-04-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,223075.22046973265,4.461504409394653
+2023-04-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,230275.03801332388,4.6055007602664775
+2023-04-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,310450.0581333334,6.209001162666668
+2023-04-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,130438.95356726344,2.6087790713452685
+2023-04-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,151007.00537502018,3.0201401075004037
+2023-04-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,170964.42727430342,3.4192885454860686
+2023-05-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,234626.42177471268,4.692528435494253
+2023-05-03,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,38310.82330133335,0.766216466026667
+2023-05-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,75343.31185333813,1.5068662370667627
+2023-05-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,408361.47323381127,8.167229464676225
+2023-05-10,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,53905.8976146272,1.0781179522925441
+2023-05-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,216218.56639365503,4.3243713278731
+2023-05-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,145860.875040724,2.91721750081448
+2023-05-17,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,322345.03285392164,6.446900657078433
+2023-05-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,200808.11458212847,4.016162291642569
+2023-05-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,107332.3355392,2.1466467107839997
+2023-05-24,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,112803.90148359133,2.2560780296718264
+2023-05-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,74108.41940282719,1.4821683880565437
+2023-05-30,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,66031.10833500796,1.3206221667001592
+2023-05-31,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,155478.98605594772,3.1095797211189544
+2023-06-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,160214.34542222222,3.2042869084444443
+2023-06-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,174187.61261506708,3.4837522523013416
+2023-06-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,100800.62921456584,2.0160125842913166
+2023-06-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,137131.53169247607,2.7426306338495214
+2023-06-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,16853.32275160494,0.3370664550320988
+2023-06-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,74179.3372634814,1.483586745269628
+2023-06-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,260545.26184253395,5.210905236850679
+2023-06-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,19846.463979530698,0.39692927959061397
+2023-06-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,31247.0783062126,0.624941566124252
+2023-06-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,38830.16991826245,0.776603398365249
+2023-06-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,95482.735565918,1.90965471131836
+2023-06-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,20496.77940949891,0.4099355881899782
+2023-06-29,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,59798.0937683836,1.195961875367672
+2023-07-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,35463.40893259295,0.7092681786518591
+2023-07-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,20010.15216199939,0.40020304323998784
+2023-07-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,44442.14160700876,0.8888428321401751
+2023-07-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,31510.320607349317,0.6302064121469864
+2023-07-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,75118.80678396256,1.502376135679251
+2023-07-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,29759.139098605217,0.5951827819721044
+2023-07-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,6488.880628845317,0.12977761257690634
+2023-07-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,23617.92242968325,0.472358448593665
+2023-07-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,130717.0342383632,2.6143406847672637
+2023-07-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,34738.73336032087,0.6947746672064173
+2023-07-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,49168.17021037849,0.9833634042075698
+2023-07-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,66448.3244417094,1.3289664888341879
+2023-08-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,152287.1718357743,3.045743436715486
+2023-08-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,1047465.8210021788,20.949316420043576
+2023-08-03,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,131894.1870649616,2.6378837412992318
+2023-08-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,368004.4854867793,7.360089709735586
+2023-08-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,125268.35204676654,2.505367040935331
+2023-08-10,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,52352.003043871744,1.0470400608774348
+2023-08-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,207833.48044705883,4.1566696089411765
+2023-08-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,203811.66988214,4.0762333976428
+2023-08-17,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,90077.39841201504,1.8015479682403008
+2023-08-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,286915.6230501236,5.738312461002472
+2023-08-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,71797.44454074865,1.435948890814973
+2023-08-24,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,615846.3849680673,12.316927699361345
+2023-08-29,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,60181.05623696626,1.2036211247393251
+2023-08-30,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,776429.9224568628,15.528598449137256
+2023-08-31,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,60855.89360445152,1.2171178720890303
+2023-09-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,93207.1083572049,1.8641421671440979
+2023-09-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,26849.71150748924,0.5369942301497848
+2023-09-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,30079.18554124147,0.6015837108248294
+2023-09-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,79844.94446455505,1.5968988892911011
+2023-09-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,83985.7028247059,1.6797140564941182
+2023-09-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,135266.6818901961,2.705333637803922
+2023-09-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,33653.182609530595,0.6730636521906119
+2023-09-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,29656.323961406782,0.5931264792281357
+2023-09-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,23163.57067518208,0.4632714135036416
+2023-09-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,203383.22504996185,4.067664500999237
+2023-09-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,38640.03121808824,0.7728006243617648
+2023-09-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,100643.7704568471,2.012875409136942
+2023-10-03,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,173995.80763707153,3.4799161527414304
+2023-10-04,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,147831.8776888889,2.956637553777778
+2023-10-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,97626.12643078616,1.952522528615723
+2023-10-10,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,82768.99997195677,1.6553799994391354
+2023-10-11,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,43760.59570443256,0.8752119140886513
+2023-10-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,55047.12355114439,1.1009424710228877
+2023-10-17,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,14120.51985882353,0.2824103971764706
+2023-10-18,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,119650.17783652178,2.3930035567304353
+2023-10-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,59849.31752817338,1.1969863505634675
+2023-10-24,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,70435.53407028462,1.4087106814056922
+2023-10-25,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,20428.661564793038,0.40857323129586076
+2023-10-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,321473.6133851662,6.429472267703324
+2023-10-31,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,29196.15302618273,0.5839230605236546
+2023-11-01,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,153728.46673534712,3.0745693347069425
+2023-11-02,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,60161.41357192699,1.2032282714385398
+2023-11-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,73764.55672041059,1.4752911344082118
+2023-11-08,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,117437.97167152008,2.3487594334304016
+2023-11-09,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,151221.92981128453,3.0244385962256906
+2023-11-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,36064.1794375408,0.721283588750816
+2023-11-15,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,74298.86164586745,1.485977232917349
+2023-11-16,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,317985.9476377766,6.359718952755532
+2023-11-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,13451.679140591346,0.26903358281182693
+2023-11-22,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,220491.1737617309,4.409823475234618
+2023-11-23,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,145352.56437297034,2.907051287459407
+2023-11-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,110027.53067212275,2.2005506134424553
+2023-11-29,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,46765.590785416425,0.9353118157083286
+2023-11-30,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,126789.47408009508,2.5357894816019018
+2023-12-05,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,21173.942201432998,0.42347884402865993
+2023-12-06,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,117939.77672067223,2.358795534413445
+2023-12-07,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,152770.15182076726,3.055403036415345
+2023-12-12,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,180751.88530678736,3.6150377061357473
+2023-12-13,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,161272.4232069565,3.22544846413913
+2023-12-14,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,222066.70692868883,4.441334138573777
+2023-12-19,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,115515.84324566656,2.3103168649133314
+2023-12-20,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,129576.9304530031,2.591538609060062
+2023-12-21,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,1441553.12153802,28.8310624307604
+2023-12-26,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,156053.62788788928,3.1210725577577856
+2023-12-27,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,1359018.325845899,27.18036651691798
+2023-12-28,City of San Leandro Water Pollution Control Plant,"San Leandro, CA",50000,251795.21354446208,5.035904270889241
