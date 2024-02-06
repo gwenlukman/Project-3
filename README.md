@@ -22,6 +22,8 @@ This API could produce weather data specific to the locations and and specific t
 From the Wasterwaterscan.org, we cleaned the data and filter out the cities we didn't want to analyze
 #### Merging_data.ipynb
 With the weather data from the API, we averaged the max_temp and min_temp and merged the data with the dataset we have from Cleaning.ipynb
+#### Uploading the data to MongoDB
+We uploaded the datasets to mongoDB
 #### Visualizations.ipynb
 Here we used seaborn to do most of our visualizations.
 
